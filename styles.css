@@ -76,12 +76,12 @@ flex: 1 1;
 }
 
 .nav-link {
-  /*display: border-box;
+  display: border-box;
   border: 3px solid black;
   border-radius: 3%;
   background: radial-gradient(
     #ffffff 40%, #888888
-  );*/
+  );
   flex: 1 1 5%;
   text-decoration: none;
   text-align: center;
